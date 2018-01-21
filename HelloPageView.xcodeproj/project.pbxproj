@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C587BE742014E85D00A47A79 /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C587BE732014E85D00A47A79 /* ContentViewController.swift */; };
+		C587BE762015040800A47A79 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C587BE752015040800A47A79 /* README.md */; };
 		C5CACE422014E6AF00EEC4CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5CACE412014E6AF00EEC4CD /* AppDelegate.swift */; };
 		C5CACE442014E6AF00EEC4CD /* WalkthroughViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5CACE432014E6AF00EEC4CD /* WalkthroughViewController.swift */; };
 		C5CACE472014E6AF00EEC4CD /* Walkthrough.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5CACE452014E6AF00EEC4CD /* Walkthrough.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		C587BE732014E85D00A47A79 /* ContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
+		C587BE752015040800A47A79 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		C5CACE3E2014E6AF00EEC4CD /* HelloPageView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloPageView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5CACE412014E6AF00EEC4CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C5CACE432014E6AF00EEC4CD /* WalkthroughViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalkthroughViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				C5CACE412014E6AF00EEC4CD /* AppDelegate.swift */,
 				C5CACE432014E6AF00EEC4CD /* WalkthroughViewController.swift */,
 				C587BE732014E85D00A47A79 /* ContentViewController.swift */,
+				C587BE752015040800A47A79 /* README.md */,
 				C5CACE452014E6AF00EEC4CD /* Walkthrough.storyboard */,
 				C5CACE482014E6AF00EEC4CD /* Assets.xcassets */,
 				C5CACE4A2014E6AF00EEC4CD /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 			files = (
 				C5CACE4C2014E6AF00EEC4CD /* LaunchScreen.storyboard in Resources */,
 				C5CACE492014E6AF00EEC4CD /* Assets.xcassets in Resources */,
+				C587BE762015040800A47A79 /* README.md in Resources */,
 				C5CACE472014E6AF00EEC4CD /* Walkthrough.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
